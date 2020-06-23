@@ -6,10 +6,12 @@ title: Projects
   Most of my work can be found on my <a href="https://github.com/vsofat" target="_blank">GitHub</a>. Please note that some of work is in private repositories or on organizational GitLabs to prevent any security issues amongst other things.
 
 <hr>
-
-## Technical Skills
+<p class="card">
+Technical Skills
 <b>Languages:</b> Java, Python, JavaScript, TypeScript, HTML/CSS <br>
-<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll <br>
+<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll
+</p>
+<br>
 
 ## Caerus
 <a href="https://caerus.solonedu.com" target="_blank">Caerus</a> is an application built as an online opportunity bulletin for students and faculty at Stuyvesant High School. It has a filtering system, automatic and customizable emailing system for notifications and reminders, and accounts set up using Google OAuth. Watch this <a href="https://youtu.be/cPlkgKidTiU">fun demo</a>!
