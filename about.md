@@ -9,10 +9,10 @@ title: About
 <hr>
 ## Education
 
-<a href="https://www.berkeley.edu/"> UC Berkeley</a> (Expected 2024)
+<a href="https://www.berkeley.edu/" target="_blank"> UC Berkeley</a> (Expected 2024)
 * Intended double major in Computer Science (B.S.) and Political Science (B.A.) <br>
 
-<a href="https://www.stuy.edu/">Stuyvesant High School</a> (Stuyvesant Endorsed Regents Diploma - June 2020)
+<a href="https://www.stuy.edu/" target="_blank">Stuyvesant High School</a> (Stuyvesant Endorsed Regents Diploma - June 2020)
 * Notable Coursework: AP Biology, AP Calculus AB, AP Comparative Government & Politics, AP Computer Science, AP English
 Literature, AP Macroeconomics, AP Microeconomics, AP Spanish Language & Culture, AP United States History, AP United States
 Government & Politics, AP World History, Artificial Intelligence, Advanced Topics Biology, Honors Chemistry, Honors Physics, Human
@@ -41,7 +41,7 @@ U.S. House of Representatives, Congressional Intern (D.C. Office) for Congresswo
 * Attended and reported on Congressional meetings, committee hearings and markups, and briefings regarding legislative issues
 * Composed memos and press releases for Legislative Staff regarding immigration, foreign affairs, labor, healthcare and education issues <br>
 
-<a href="https://www1.nyc.gov/site/manhattancb1/index.page"> Manhattan Community Board 1</a>, Representative
+<a href="https://www1.nyc.gov/site/manhattancb1/index.page" target="_blank"> Manhattan Community Board 1</a>, Representative
 * Serve as a member of the Youth & Education and Environmental Protection Committees
 * Host informational forums on particular youth and education issues affecting the constituency
 * Issue recommendations to the relevant governing agencies, elected officials, organizations
@@ -62,7 +62,7 @@ Mt. Sinai Cardiac Catheterization Laboratory, Student Intern under Dr. Samin Sha
 
 ## Leadership & Activities
 
-<a href="https://stuysu.org">Stuyvesant Student Union</a>, Student Union President & School Leadership Team Student Representative
+<a href="https://stuysu.org" target="_blank">Stuyvesant Student Union</a>, Student Union President & School Leadership Team Student Representative
 * Honored with Welling Award for Leadership for advocating on behalf of 3,300+ students
 * Devise the Comprehensive Education Plan goals for the school and passed new cell phone and homework policies
 * Create Civic Engagement and Financial Literacy courses, Sexual Harassment workshops, and a neighborhood student discount program
@@ -70,7 +70,7 @@ Mt. Sinai Cardiac Catheterization Laboratory, Student Intern under Dr. Samin Sha
 * Plan school-wide and grade-specific events such as SING! (student-run musical), dances, lectures, fundraisers and blood drives
 * Charter over 200 clubs and designed a website, <a href="StuyActivities.com">StuyActivities.com</a>, that helps students find clubs of their interest <br>
 
-<a href="https://stuymun.com/">Stuyvesant Model United Nations</a>, Under Secretary General of Personnel
+<a href="https://stuymun.com/" target="_blank">Stuyvesant Model United Nations</a>, Under Secretary General of Personnel
 * Attended 24 conferences, won 19 awards, and only delegate from school selected for the All-American Model UN Team
 * Train team of over 70 members for conferences and doubled awards won by team resulting in most successful year <br>
 
@@ -82,10 +82,10 @@ Stuyvesant Varsity Co-Ed Cricket Team, Captain
 <b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node, Encog, Flask, SQLAlchemy, D3.js
 
 ## Awards & Honors
-* Yale Young Global Scholar
-* High School Fed Challenge Semifinalist (2019)
-* High School Fed Challenge Honorable Mention - Top 5 Teams (2020)
-* Scholastic Silver Key
-* All American Model UN Team
+* <a href="https://globalscholars.yale.edu/" target="_blank" Yale Young Global Scholar </a>
+* <a href="https://www.newyorkfed.org/outreach-and-education/high-school/high-school-fed-challengeHigh" target="_blank"> School Fed Challenge</a> Semifinalist (2019)
+* <a href="https://www.newyorkfed.org/outreach-and-education/high-school/high-school-fed-challengeHigh" target="_blank"> School Fed Challenge</a> Honorable Mention - Top 5 Teams (2020)
+* <a href="https://www.artandwriting.org/" target="_blank"> Scholastic</a> Silver Key for Poetry
+* <a href="https://allamericanmun.com/" target="_blank"> All American Model UN</a> Team
 * AP Scholar with Honor
 * John Hopkins Center for Talented Youth
