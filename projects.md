@@ -7,7 +7,7 @@ title: Projects
 
 <hr>
 <p class="message">
-Technical Skills
+Technical Skills <br>
 <b>Languages:</b> Java, Python, JavaScript, TypeScript, HTML/CSS <br>
 <b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll
 </p>
