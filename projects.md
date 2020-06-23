@@ -7,11 +7,10 @@ title: Projects
 
 <hr>
 <p class="message">
-Technical Skills <br>
+<b>Technical Skills</b> <br>
 <b>Languages:</b> Java, Python, JavaScript, TypeScript, HTML/CSS <br>
 <b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll
 </p>
-<br>
 
 ## Caerus
 <a href="https://caerus.solonedu.com" target="_blank">Caerus</a> is an application built as an online opportunity bulletin for students and faculty at Stuyvesant High School. It has a filtering system, automatic and customizable emailing system for notifications and reminders, and accounts set up using Google OAuth. Watch this <a href="https://youtu.be/cPlkgKidTiU">fun demo</a>!
