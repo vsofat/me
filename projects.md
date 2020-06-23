@@ -6,7 +6,7 @@ title: Projects
   Most of my work can be found on my <a href="https://github.com/vsofat" target="_blank">GitHub</a>. Please note that some of work is in private repositories or on organizational GitLabs to prevent any security issues amongst other things.
 
 <hr>
-<p class="card">
+<p class="message">
 Technical Skills
 <b>Languages:</b> Java, Python, JavaScript, TypeScript, HTML/CSS <br>
 <b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll
