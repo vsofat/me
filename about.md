@@ -85,7 +85,7 @@ Stuyvesant Varsity Co-Ed Cricket Team, Captain
 * <a href="https://globalscholars.yale.edu/" target="_blank"> Yale Young Global Scholar </a>
 * <a href="https://www.newyorkfed.org/outreach-and-education/high-school/high-school-fed-challengeHigh" target="_blank"> School Fed Challenge</a> Semifinalist (2019)
 * <a href="https://www.newyorkfed.org/outreach-and-education/high-school/high-school-fed-challengeHigh" target="_blank"> School Fed Challenge</a> Honorable Mention - Top 5 Teams (2020)
-* <a href="https://www.artandwriting.org/" target="_blank"> Scholastic</a> Silver Key for Poetry (Check out <a href="../assets/SofatVishwaa_PoetrySamples" target="_blank">winning poem</a>!)
+* <a href="https://www.artandwriting.org/" target="_blank"> Scholastic</a> Silver Key for Poetry (Check out <a href="../assets/SofatVishwaa_Poetry.pdf" target="_blank">winning poem</a>!)
 * <a href="https://allamericanmun.com/" target="_blank"> All American Model UN</a> Team
 * AP Scholar with Honor
 * John Hopkins Center for Talented Youth
