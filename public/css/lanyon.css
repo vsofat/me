@@ -565,3 +565,10 @@ a.pagination-item:hover {
    width: 100%;
    text-align: center;
 }
+
+/* Img */
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
