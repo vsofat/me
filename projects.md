@@ -19,7 +19,7 @@ Technical Skills
 <br>
 
 ## The Wall of Thanks
-<a href="https://thewallofthanks.com" target="_blank">The Wall of Thanks</a> was an application built using Node.js and employing MongoDB. It was created to allow users to share their gratitude in a time of uncertainty amidst the rise of COVID-19, especially in NYC.
+<a href="https://thewallofthanks.com" target="_blank">The Wall of Thanks</a> is an application built using Node.js and employing MongoDB. It was created to allow users to share their gratitude in a time of uncertainty amidst the rise of COVID-19, especially in NYC.
 
 <br>
 
@@ -29,7 +29,7 @@ Technical Skills
 <br>
 
 ## ZAVY
-An artificial intelligence program that serves as a virtual study buddy to help students target their academic weaknesses and better prepare for testing alongside teammates developed in assistance with mentors from Google NYC.
+An artificial intelligence program that serves as a virtual study buddy to help students target their academic weaknesses and better prepare for testing alongside teammates developed in assistance with mentors from Google NYC. (WIP)
 
 <br>
 

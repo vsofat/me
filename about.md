@@ -17,7 +17,7 @@ title: About
 Literature, AP Macroeconomics, AP Microeconomics, AP Spanish Language & Culture, AP United States History, AP United States
 Government & Politics, AP World History, Artificial Intelligence, Advanced Topics Biology, Honors Chemistry, Honors Physics, Human
 Diseases, Software Development, and Western Political Thought
-* Honors: Welling Award for Leadership & The Dr. Howard Wexler Scholarship ($15,000) <br>
+* Honors: Welling Award for Leadership & The Dr. Howard Wexler Scholarship <br>
 
 ## Work Experience
 <a href="directhealthaccess.com">Direct Health Access</a>, Founder & CEO
