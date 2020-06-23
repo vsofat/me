@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-  Most of my work can be found on my <a href="https://github.com/vsofat">GitHub</a>. Please note that some of work is in private repositories or on organizational GitLabs to prevent any security issues amongst other things.
+  Most of my work can be found on my <a href="https://github.com/vsofat" target="_blank">GitHub</a>. Please note that some of work is in private repositories or on organizational GitLabs to prevent any security issues amongst other things.
 
 <hr>
 
