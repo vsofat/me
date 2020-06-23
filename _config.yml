@@ -1,0 +1,21 @@
+# Setup
+title:               Vishwaa Sofat
+tagline:
+description:
+url:
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Vishwaa Sofat
+  email:             sofatvishwaa@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             
+google_analytics_id:
