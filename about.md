@@ -82,7 +82,7 @@ Stuyvesant Varsity Co-Ed Cricket Team, Captain
 <b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node, Encog, Flask, SQLAlchemy, D3.js
 
 ## Awards & Honors
-* <a href="https://globalscholars.yale.edu/" target="_blank" Yale Young Global Scholar </a>
+* <a href="https://globalscholars.yale.edu/" target="_blank"> Yale Young Global Scholar </a>
 * <a href="https://www.newyorkfed.org/outreach-and-education/high-school/high-school-fed-challengeHigh" target="_blank"> School Fed Challenge</a> Semifinalist (2019)
 * <a href="https://www.newyorkfed.org/outreach-and-education/high-school/high-school-fed-challengeHigh" target="_blank"> School Fed Challenge</a> Honorable Mention - Top 5 Teams (2020)
 * <a href="https://www.artandwriting.org/" target="_blank"> Scholastic</a> Silver Key for Poetry
