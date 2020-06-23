@@ -13,6 +13,13 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.13.1)
     forwardable-extended (2.6.0)
+    github (0.7.2)
+      highline (~> 1.6)
+      json_pure (~> 1.5.1)
+      launchy (~> 2.0.2)
+      text-format (= 1.0.0)
+      text-hyphen (= 1.0.0)
+    highline (1.7.10)
     http_parser.rb (0.6.0)
     i18n (1.8.3)
       concurrent-ruby (~> 1.0)
@@ -42,10 +49,13 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    json_pure (1.5.5)
+      spruz (~> 0.2.8)
     kramdown (2.2.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    launchy (2.0.3)
     liquid (4.0.3)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -69,15 +79,19 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    spruz (0.2.13)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    text-format (1.0.0)
+      text-hyphen (~> 1.0.0)
+    text-hyphen (1.0.0)
     unicode-display_width (1.7.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  github
   jekyll-gist
   jekyll-paginate
   jekyll-seo-tag
