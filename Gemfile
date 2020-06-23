@@ -6,13 +6,8 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 source "https://rubygems.org"
 
-gem "jekyll"
+gem “github-pages”
 
-group :jekyll_plugins do
-  gem "jekyll-gist"
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
-  gem "jekyll-paginate"
-end
+group :jekyll_plugins
 
 # gem "rails"
