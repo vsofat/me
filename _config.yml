@@ -6,6 +6,8 @@ url:
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+sass:
+  sass_dir: public/css
 
 # About/contact
 author:
@@ -17,5 +19,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             
+version:
 google_analytics_id:

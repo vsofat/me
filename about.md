@@ -79,13 +79,13 @@ Stuyvesant Varsity Co-Ed Cricket Team, Captain
 
 ## Technical Skills
 <b>Languages:</b> Java, Python, JavaScript, TypeScript, HTML/CSS <br>
-<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js
+<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll <br>
 
 ## Awards & Honors
 * <a href="https://globalscholars.yale.edu/" target="_blank"> Yale Young Global Scholar </a>
 * <a href="https://www.newyorkfed.org/outreach-and-education/high-school/high-school-fed-challengeHigh" target="_blank"> School Fed Challenge</a> Semifinalist (2019)
 * <a href="https://www.newyorkfed.org/outreach-and-education/high-school/high-school-fed-challengeHigh" target="_blank"> School Fed Challenge</a> Honorable Mention - Top 5 Teams (2020)
-* <a href="https://www.artandwriting.org/" target="_blank"> Scholastic</a> Silver Key for Poetry
+* <a href="https://www.artandwriting.org/" target="_blank"> Scholastic</a> Silver Key for Poetry (Check out winning poem!)
 * <a href="https://allamericanmun.com/" target="_blank"> All American Model UN</a> Team
 * AP Scholar with Honor
 * John Hopkins Center for Talented Youth

@@ -7,19 +7,22 @@ title: Projects
 
 <hr>
 
-## <a href="https://caerus.solonedu.com" target="_blank">Caerus</a>
-The Wall of Thanks is an application built as an online opportunity bulletin for students and faculty at Stuyvesant High School. It has a filtering system, automatic and customizable emailing system for notifications and reminders, and accounts set up using Google OAuth. Watch this <a href="https://youtu.be/cPlkgKidTiU">fun demo</a>!
+## Technical Skills
+<b>Languages:</b> Java, Python, JavaScript, TypeScript, HTML/CSS <br>
+<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll <br>
+
+## Caerus
+<a href="https://caerus.solonedu.com" target="_blank">Caerus</a> is an application built as an online opportunity bulletin for students and faculty at Stuyvesant High School. It has a filtering system, automatic and customizable emailing system for notifications and reminders, and accounts set up using Google OAuth. Watch this <a href="https://youtu.be/cPlkgKidTiU">fun demo</a>!
 
 <br>
 
-## <a href="https://thewallofthanks.com" target="_blank">The Wall of Thanks</a>
-The Wall of Thanks was an application built using Node.js and employing MongoDB. It was created to allow users to share their
-gratitude in a time of uncertainty amidst the rise of COVID-19, especially in NYC.
+## The Wall of Thanks
+<a href="https://thewallofthanks.com" target="_blank">The Wall of Thanks</a> was an application built using Node.js and employing MongoDB. It was created to allow users to share their gratitude in a time of uncertainty amidst the rise of COVID-19, especially in NYC.
 
 <br>
 
-## <a href="https://StuyActivities.org" target="_blank">StuyActivities</a>
-StuyActivites is an after-school activity manager actively used by nearly 3500 students and faculty members at Stuyvesant High School, which I helped create in my time as Student Union President and Vice President. It is built in Python 3 using Flask, Amazon S3, PIL, and SQLAlchemy and the front-end is built with WTForms, Jinja, jQuery, and various JS libraries. The application features a club chartering and approval system, meeting and attendance management with personalized and global calendars for students, and a built-in room reservation system. Students can join and create clubs online, can request funding from the Student Union or Parent’s Association for their organizations, and can get information out to their members all from one convenient site.
+## StuyActivities
+<a href="https://StuyActivities.org" target="_blank">StuyActivites</a> is an after-school activity manager actively used by nearly 3500 students and faculty members at Stuyvesant High School, which I helped create in my time as Student Union President and Vice President. It is built in Python 3 using Flask, Amazon S3, PIL, and SQLAlchemy and the front-end is built with WTForms, Jinja, jQuery, and various JS libraries. The application features a club chartering and approval system, meeting and attendance management with personalized and global calendars for students, and a built-in room reservation system. Students can join and create clubs online, can request funding from the Student Union or Parent’s Association for their organizations, and can get information out to their members all from one convenient site.
 
 <br>
 
