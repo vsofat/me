@@ -235,6 +235,18 @@ img {
   float: center;
 }
 
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
