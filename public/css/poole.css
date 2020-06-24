@@ -233,6 +233,7 @@ img {
   float: left;
   /* margin-left: auto; */
   margin-right: 1em;
+  margin-bottom: 1em;
   /* max-width: 100%; */
   height: auto;
   width: 50%;
