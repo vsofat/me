@@ -229,7 +229,7 @@ blockquote p:last-child {
 
 img {
   display: block;
-  margin: 1em;
+  margin: 2em;
   border-radius: 5px;
   float: left;
   margin-left: auto;
