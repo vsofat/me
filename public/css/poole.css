@@ -232,8 +232,9 @@ img {
   border-radius: 5px;
   float: left;
   /* margin-left: auto; */
+  margin-top: .25em;
   margin-right: .5em;
-  margin-bottom: .5em;
+  margin-bottom: .25em;
   /* max-width: 100%; */
   height: auto;
   width: 50%;
