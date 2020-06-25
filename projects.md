@@ -8,8 +8,8 @@ title: Projects
 <hr>
 <p class="message">
 <b>Technical Skills</b> <br>
-Languages: HTML/CSS, Java, JS, Python <br>
-Tools & Frameworks: D3.js, Flask, Git, Jekyll, Jinja, MongoDB, Node.js, SQL <br>
+<b>Languages:</b> HTML/CSS, Java, JS, Python <br>
+<b>Tools & Frameworks:</b> D3.js, Flask, Git, Jekyll, Jinja, MongoDB, Node.js, SQL <br>
 </p>
 
 ## Caerus
