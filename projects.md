@@ -9,7 +9,7 @@ title: Projects
 <p class="message">
 <b>Technical Skills</b> <br>
 <b>Languages:</b> Java, Python, JavaScript, TypeScript, HTML/CSS <br>
-<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll
+<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, D3.js, Jinja, Jekyll
 </p>
 
 ## Caerus

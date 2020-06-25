@@ -54,7 +54,7 @@ NYC Department of Education Manhattan Borough Student Advisory Council, Stuyvesa
 
 Congressional Youth Council for Congresswoman Carolyn Maloney (NY-12), Student Advisor
 * Advise the Congresswoman on critical issues facing the community, especially youth in NYC
-* Plan first Congressional Hackathon in New York <br>
+<br>
 
 Mt. Sinai Cardiac Catheterization Laboratory, Student Intern under Dr. Samin Sharma
 * Interacted with patients and their families during consultation visits as well as pre and post procedure
@@ -79,7 +79,7 @@ Stuyvesant Varsity Co-Ed Cricket Team, Captain
 
 ## Technical Skills
 <b>Languages:</b> Java, Python, JavaScript, TypeScript, HTML/CSS <br>
-<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, SQLAlchemy, D3.js, Jinja, Jekyll <br>
+<b>Tools & Frameworks:</b> MongoDB, SQL, Git, Node.js, Flask, D3.js, Jinja, Jekyll <br>
 
 ## Awards & Honors
 * <a href="https://globalscholars.yale.edu/" target="_blank"> Yale Young Global Scholar </a>
