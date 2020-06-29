@@ -40,7 +40,7 @@ U.S. House of Representatives, Congressional Intern (D.C. Office) for Congresswo
 
 <a href="https://www1.nyc.gov/site/manhattancb1/index.page" target="_blank"> Manhattan Community Board 1</a>, Appointed Official   
 *	Served as a member of the Youth & Education and Environmental Protection Subcommittees
-*	Issued recommendations to the relevant governing agencies, elected officials, organizations
+*	Issued recommendations to the relevant governing agencies, elected officials, and organizations
 *	Appointed as the only high school representative by the Manhattan Borough President and New York City Council Member Margaret Chin
  <br>
 
