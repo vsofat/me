@@ -78,7 +78,7 @@ Stuyvesant Varsity Co-Ed Cricket Team, Captain
 
 ## Technical Skills
 <b>Languages:</b> HTML/CSS, Java, JS, Python <br>
-<b>Tools & Frameworks:</b> D3.js, Flask, Git, Jekyll, Jinja, MongoDB, Node.js, SQL <br>
+<b>Tools & Frameworks:</b> D3.js, Express.js, Flask, Git, Jekyll, Jinja, MongoDB, Node.js, SQL <br>
 
 ## Awards & Honors
 * <a href="https://globalscholars.yale.edu/" target="_blank"> Yale Young Global Scholar </a>

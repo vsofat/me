@@ -9,7 +9,7 @@ title: Projects
 <p class="message">
 <b>Technical Skills</b> <br>
 <b>Languages:</b> HTML/CSS, Java, JS, Python <br>
-<b>Tools & Frameworks:</b> D3.js, Flask, Git, Jekyll, Jinja, MongoDB, Node.js, SQL <br>
+<b>Tools & Frameworks:</b> D3.js, Express.js, Flask, Git, Jekyll, Jinja, MongoDB, Node.js, SQL <br>
 </p>
 
 ## Caerus
@@ -18,7 +18,7 @@ title: Projects
 <br>
 
 ## The Wall of Thanks
-<a href="https://thewallofthanks.com" target="_blank">The Wall of Thanks</a> is an application built using Node.js and employing MongoDB. It was created to allow users to share their gratitude in a time of uncertainty amidst the rise of COVID-19, especially in NYC.
+<a href="https://thewallofthanks.com" target="_blank">The Wall of Thanks</a> is an application built using Node.js and Express.js, and MongoDB. It was created to allow users to share their gratitude in a time of uncertainty amidst the rise of COVID-19, especially in NYC.
 
 <br>
 
